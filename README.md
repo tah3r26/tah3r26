@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# 👋 I’m Tahir Abdou (Tahir Dev)
+
+## 👋 Hi, I’m Tahir Abdou (Tahir Dev)
 
 Développeur Full‑Stack basé au Sénégal, passionné par la conception de systèmes web robustes et de solutions data/IA appliquées à la santé et à la gestion des urgences.
 
