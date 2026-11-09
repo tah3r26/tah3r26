@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I’m Tahir ABDOU (Tahir Dev)
+# 👋 Hi, I’m Tahir ABDOU (Tahir Techlabs)
 
 
 
