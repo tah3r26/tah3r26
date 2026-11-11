@@ -14,7 +14,7 @@ Je suis **développeur Full Stack**, diplômé en Génie Informatique au Centre 
 
 Je m'intéresse à la conception et au développement de solutions numériques fiables, évolutives et adaptées aux besoins réels des utilisateurs. Mon parcours s'articule autour du développement web Full Stack, de l'ingénierie logicielle, de la conception des bases de données, des systèmes géospatiaux et de l'intégration progressive de l'intelligence artificielle dans les applications.
 
-Je porte un intérêt particulier aux projets numériques à impact en Afrique, notamment dans les domaines de la santé, de la gestion des urgences, des plateformes SaaS et de la transformation digitale.
+Je porte un intérêt particulier aux projets numériques à fort impact en Afrique, notamment dans les domaines de la santé, de la gestion des urgences, des plateformes SaaS et de la transformation digitale.
 
 **Ma vision :** évoluer vers l'ingénierie logicielle avancée, le développement d'applications intégrant l'IA et, à terme, l'architecture de systèmes intelligents.
 
@@ -639,7 +639,7 @@ Je suis intéressé par :
   <a href="https://github.com/tah3r26">
     <img src="https://img.shields.io/badge/GitHub-tah3r26-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/TahirABDOU">
+  <a href="https://linkedin.com/in/tahir-abdou">
     <img src="https://img.shields.io/badge/LinkedIn-Tahir%20Abdou-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:tahir.techlabs@gmail.com">
@@ -648,8 +648,8 @@ Je suis intéressé par :
 </p>
 
 - **GitHub:** https://github.com/tah3r26
-- **LinkedIn:** https://linkedin.com/in/TahirABDOU
-- **Email:** tahir.techlabs@gmail.com
+- **LinkedIn:** https://linkedin.com/in/tahir-abdou
+- **Email:** tahir.techlabs@gmail.com/tahir.branny57@gmail.com
 - **Location:** Senegal 🇸🇳
 
 ---
