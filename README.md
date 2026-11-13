@@ -28,7 +28,7 @@ Concevoir des logiciels modernes. Développer des solutions évolutives. · Heal
 
 ## 👨‍💻 À propos de moi
 
-Je suis **développeur Full Stack**, diplômé d'une Licence en Génie Informatique au Centre de Formation Professionnelle Pluridisciplinaire (CFPP) de l'Université Gaston Berger de Saint-Louis, au Sénégal.
+Je suis **développeur Full Stack**, diplômé d'une Licence en Génie Informatique obtenue en 2026 au Centre de Formation Professionnelle Pluridisciplinaire (CFPP) de l'Université Gaston Berger de Saint-Louis, au Sénégal.
 
 Je m'intéresse particulièrement à la conception et au développement de solutions numériques fiables, évolutives et adaptées aux besoins réels des utilisateurs.
 
